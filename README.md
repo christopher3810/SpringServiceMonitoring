@@ -7,7 +7,7 @@
 ![GitHub license](https://img.shields.io/github/license/christopher3810/SpringServicemonitoring)
 
 <p align="center">
-    <img src ="https://github.com/christopher3810/JavaPlayGround/assets/61622657/dc94b4d0-95b9-44bb-9205-e4b4d4c9099c" width="500" height="500">
+    <img src ="https://github.com/christopher3810/JavaPlayGround/assets/61622657/dc94b4d0-95b9-44bb-9205-e4b4d4c9099c" width="300" height="300">
 </p>
 
 ### 목표
