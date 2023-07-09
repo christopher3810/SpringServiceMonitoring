@@ -37,12 +37,8 @@ graph LR
 
 ### tools
 
-Spring boot
-
-Prometheus
-
-Grafama
-
-K3s
-
-Istio
+Spring boot.
+Prometheus.
+Grafama.
+K3s.
+Istio.
