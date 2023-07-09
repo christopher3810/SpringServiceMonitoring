@@ -1,3 +1,15 @@
+## Spring Boot, JPA, PostgreSQL with Prometheus, Grafana and Istio on K3s
+
+![GitHub contributors](https://img.shields.io/github/contributors/christopher3810/JavaPlayGround)
+![GitHub issues](https://img.shields.io/github/issues/christopher3810/JavaPlayGround)
+![GitHub forks](https://img.shields.io/github/forks/christopher3810/JavaPlayGround)
+![GitHub stars](https://img.shields.io/github/stars/christopher3810/JavaPlayGround)
+![GitHub license](https://img.shields.io/github/license/christopher3810/JavaPlayGround)
+
+<p align="center">
+    <img src ="https://github.com/christopher3810/JavaPlayGround/assets/61622657/dc94b4d0-95b9-44bb-9205-e4b4d4c9099c">
+</p>
+
 ### 목표
 
 Spring Boot, JPA, PostgreSQL 기반 웹 프로젝트를 k3s 클러스터에서 동작하게하고,
